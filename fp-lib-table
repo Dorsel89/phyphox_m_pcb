@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "phyphox")(type "KiCad")(uri "${KIPRJMOD}/../phyphox-footprints.pretty")(options "")(descr ""))
+)

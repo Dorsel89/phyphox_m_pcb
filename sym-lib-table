@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "phyphox-symbols")(type "KiCad")(uri "${KIPRJMOD}/../phyphox-symbols.kicad_sym")(options "")(descr ""))
+)

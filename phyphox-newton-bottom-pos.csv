@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C13","C_Polarized","SuperCap_DSF106Q3R0C",9.625000,-28.000000,180.000000,bottom
+"FID4","Fiducial","Fiducial_0.5mm_Mask1mm",0.000000,0.000000,180.000000,bottom
+"FID5","Fiducial","Fiducial_0.5mm_Mask1mm",22.000000,-35.000000,180.000000,bottom
+"H2","MountingHole","Keystone_8734",19.500000,-1.375000,0.000000,bottom
+"H4","MountingHole","Keystone_8734",2.500000,-34.125000,180.000000,bottom
+"J3","Conn_01x08_Pin","PinSocket_1x08_P1.00mm_Vertical_SMD_Pin1Left",11.000000,-0.500000,90.000000,bottom
